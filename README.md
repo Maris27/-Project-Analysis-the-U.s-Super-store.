@@ -18,6 +18,8 @@ From the data set above, i came up with some question that could point out compa
 
 4.Average profit per region for (4) four years
 
+5.
+
 
 
 
@@ -25,7 +27,22 @@ From the data set above, i came up with some question that could point out compa
 
 # ACIVITIES
 
-![image](https://github.com/Maris27/-Project-Analysis-the-U.s-Super-store./assets/140453106/e05c41a7-b122-41e6-b746-985765cba175)
+![image](https://github.com/Maris27/-Project-Analysis-the-U.s-Super-store./assets/140453106/93ab8599-9181-4dd8-9463-0c4b9d52a24d)
+
+
+
+![image](https://github.com/Maris27/-Project-Analysis-the-U.s-Super-store./assets/140453106/e8faf590-fe44-4ae0-8471-9914881581c8)
+
+
+
+![image](https://github.com/Maris27/-Project-Analysis-the-U.s-Super-store./assets/140453106/745dcf3b-71f3-49a3-9b45-0d5decdd5e4b)
+
+
+
+![image](https://github.com/Maris27/-Project-Analysis-the-U.s-Super-store./assets/140453106/a30cdcfe-dcf0-4334-804e-4032da3c707a)
+
+
+
 
 
 
