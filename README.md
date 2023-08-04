@@ -20,7 +20,7 @@ From the data set above, i came up with some question that could point out compa
 
 5.Total number of sales recorded for the previous years
 
-6. 
+6. Profit per quarter for the previous years to ascertain profit peak
 
 
 
@@ -48,6 +48,8 @@ From the data set above, i came up with some question that could point out compa
 ![image](https://github.com/Maris27/-Project-Analyzing-the-U.s-Super-store./assets/140453106/1113046e-5ea0-49c6-82b9-3dc0f47502b1)
 
 
+
+![image](https://github.com/Maris27/-Project-Analyzing-the-U.s-Super-store./assets/140453106/1c9a7f50-012f-4ae4-ae60-d13bed09c6de)
 
 
 
