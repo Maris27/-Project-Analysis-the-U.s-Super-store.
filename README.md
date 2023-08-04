@@ -14,7 +14,9 @@ From the data set above, i came up with some question that could point out compa
  				
 2.Total profit by segement from the (4) four region to determine the least performing 
 
-3.Average sales and average profit made in two years.
+3.Average sales per region for (4) four years 
+
+4.Average profit per region for (4) four years
 
 
 
@@ -23,11 +25,13 @@ From the data set above, i came up with some question that could point out compa
 
 # ACIVITIES
 
-![image](https://github.com/Maris27/-Project-Analysis-the-U.s-Super-store./assets/140453106/0c4f08e5-0e51-4d19-a150-cd44aa3cb5b2)
+![image](https://github.com/Maris27/-Project-Analysis-the-U.s-Super-store./assets/140453106/e05c41a7-b122-41e6-b746-985765cba175)
 
 
 
-![image](https://github.com/Maris27/-Project-Analysis-the-U.s-Super-store./assets/140453106/02ff5364-e5cf-41d3-bdda-2c60bd1f6635)
+
+
+
 
 
 
