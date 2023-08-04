@@ -18,7 +18,9 @@ From the data set above, i came up with some question that could point out compa
 
 4.Average profit per region for (4) four years
 
-5.Determin the profit for two years over company percentage
+5.Total number of sales recorded for the previous years
+
+6. 
 
 
 
@@ -40,6 +42,10 @@ From the data set above, i came up with some question that could point out compa
 
 
 ![image](https://github.com/Maris27/-Project-Analysis-the-U.s-Super-store./assets/140453106/a30cdcfe-dcf0-4334-804e-4032da3c707a)
+
+
+
+![image](https://github.com/Maris27/-Project-Analyzing-the-U.s-Super-store./assets/140453106/94da3f93-3fe3-45f7-844c-f392c9a7ea3e)
 
 
 
