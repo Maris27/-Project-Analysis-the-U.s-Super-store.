@@ -45,7 +45,8 @@ From the data set above, i came up with some question that could point out compa
 
 
 
-![image](https://github.com/Maris27/-Project-Analyzing-the-U.s-Super-store./assets/140453106/94da3f93-3fe3-45f7-844c-f392c9a7ea3e)
+![image](https://github.com/Maris27/-Project-Analyzing-the-U.s-Super-store./assets/140453106/1113046e-5ea0-49c6-82b9-3dc0f47502b1)
+
 
 
 
