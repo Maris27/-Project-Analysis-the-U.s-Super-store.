@@ -20,7 +20,7 @@ From the data set above, i came up with some question that could point out compa
 
 5.Total number of sales recorded in the previous years
 
-6. Profit per quarter for the previous years to ascertain profit peak
+6.Profit per quarter for the previous years to ascertain profit peak
 
 
 
