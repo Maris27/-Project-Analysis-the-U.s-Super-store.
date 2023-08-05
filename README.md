@@ -1,6 +1,6 @@
 # (First project) Analyzing the U.S super store
 
-I was asked to analyse the U.s super store based on company performance and also to ascertain the specific segment,product,quarter and region that need more attention in the coming year for better decision making.
+I was asked to analyse the U.s super store based on company performance and also to ascertain the specific segment,product,quarter and region that needs more attention in the coming year for better decision making.
 
 
 # Data set
@@ -18,10 +18,9 @@ From the data set above, i came up with some question that could point out compa
 
 4.Average profit per region for (4) four years
 
-5.Total number of sales recorded for the previous years
+5.Total number of sales recorded in the previous years
 
 6. Profit per quarter for the previous years to ascertain profit peak
-
 
 
 
@@ -50,6 +49,23 @@ From the data set above, i came up with some question that could point out compa
 
 
 ![image](https://github.com/Maris27/-Project-Analyzing-the-U.s-Super-store./assets/140453106/1c9a7f50-012f-4ae4-ae60-d13bed09c6de)
+
+
+
+# TOOL USED- MICROSOFT EXCEL
+
+
+# STEPS
+1. Data cleaning
+
+The dataset were downloaded into microsoft excel for cleaning, checked for duplicate values,missing values.I formatted the date cloumn so it can be displayed in a date data type to enable me exxtract the years and quarters.No duplicate values were found and no missing value.
+
+
+![image](https://github.com/Maris27/-Project-Analyzing-the-U.s-Super-store./assets/140453106/8cbd8d38-a851-4b0b-a564-748f0ffc7c48)
+
+2. Created a pivot table from the data set for each analysis ,the aim was to determine answers to the above questions
+
+3. Visualize my answers from the pivot tables using the following charts,column chart, line charts,bar chart and doughnut chart.
 
 
 
